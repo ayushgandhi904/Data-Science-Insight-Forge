@@ -26,6 +26,6 @@ Materials updation planning:
 This is Dynamic Repository, which will keep on updating years to come. (Can check updation log in log.txt file)
 
 First Updated: 11-Jan-24
-Last Updated: 11-Jan-24
+Last Updated: 12-Jan-24
 
 I have made plan to make best Data Science Materials Repository in years to come. 

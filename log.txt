@@ -1,3 +1,8 @@
+Date: 12-Jan-24
+Updation: Machine Learning Structure & Simple Regression Structure added
+Changes: - 
+
+
 Date: 11-Jan-24
 Updation: Structure Plan for Repository
 Changes: - 
